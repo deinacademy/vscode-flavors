@@ -12,3 +12,4 @@ While the VSCode team solves that, we can use a little workaround, creating our 
 - [VSCode - React Flavored](https://dev.to/equiman/vscode-react-flavored-134h)
 - [VSCode - Node.js Flavored](https://dev.to/equiman/vscode-node-js-flavored-37di)
 - [VSCode - .Net Flavored](https://dev.to/equiman/vscode-net-flavored-6e9)
+- [VSCode - Arduino Flavored](https://dev.to/equiman/vscode-arduino-flavored-mgj)
